@@ -1,0 +1,9 @@
+# Project exclude paths
+/venv/
+
+# OSX
+*.DS_Store
+
+# IDEA
+*.iml
+.idea/
